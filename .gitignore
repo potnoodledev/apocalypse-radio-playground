@@ -1,0 +1,5 @@
+.env
+.claude/
+*.wav
+*.b64
+__pycache__/
